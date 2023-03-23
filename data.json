@@ -2,48 +2,48 @@
     "projects": [
         {
             "id":0,
-            "project_name": "project-1",
-            "description": "project-description",
-            "technologies": ["tech-1", "tech-2", "tech-3"],
-            "live_link": "www.google.com",
+            "project_name": "Random Quote Generator",
+            "description": "This application generates a random quote, displays it on the page every time the button is pressed.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://www.google.com/",
             "github_link": "https://github.com/dougbeckwith/techdegree-project-1",
-            "image_urls": ["/images/project-1-main.png", "/images/project-1-landscape-1.png", "/images/project-1-landscape-2.png"]
+            "image_urls": ["/static/images/project-1-main.png", "/static/images/project-1-landscape-1.png", "/static/images/project-1-landscape-2.png"]
         },
         {
             "id":1,
-            "project_name": "project-2",
-            "description": "project-description",
-            "technologies": ["tech-2", "tech-2", "tech-3"],
-            "live_link": "www.google.com",
+            "project_name": "Data Pagination and Filtering",
+            "description": "This application takes a large array of 44 students and will only display up to 9 students from the array on the page. Clicking on the button triggers an event and will access different section of students from the array based on the parameters of the function ShowPage.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://www.google.com/",
             "github_link": "https://github.com/dougbeckwith/techdegree-project-2",
-            "image_urls": ["/images/project-2-main.png", "/images/project-2-landscape-1.png", "/images/project-2-landscape-2.png"]
+            "image_urls": ["/static/images/project-2-main.png", "/static/images/project-2-landscape-1.png", "/static/images/project-2-landscape-2.png"]
         },
         {
             "id":2,
-            "project_name": "project-3",
-            "description": "project-description",
-            "technologies": ["tech-1", "tech-3", "tech-3"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": ["/images/project-3-main.png", "/images/project-3-landscape-1.png", "/images/project-3-landscape-2.png"]
+            "project_name": "Form Validation",
+            "description": "This application works with form validation. It shows or hides information on the webpage based on user inputs (t-shirt option, job roll).",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://www.google.com/",
+            "github_link": "https://github.com/dougbeckwith/techdegree-project-3",
+            "image_urls": ["/static/images/project-3-main.png", "/static/images/project-3-landscape-1.png", "/static/images/project-3-landscape-2.png"]
         },
         {
             "id":3,
-            "project_name": "project-4",
-            "description": "project-description",
-            "technologies": ["tech-1", "tech-2", "tech-3"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": ["/images/project-4-main.png", "/images/project-4-landscape-1.png", "/images/project-4-landscape-2.png"]
+            "project_name": "Game Show App",
+            "description": "This web app is a phrase guessing game. A player continues to select letters until they guess the phrase (and win), or make five incorrect guesses (and lose).",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://dougbeckwith.github.io/",
+            "github_link": "https://github.com/dougbeckwith/techdegree-project-4",
+            "image_urls": ["/static/images/project-4-main.png", "/static/images/project-4-landscape-1.png", "/static/images/project-4-landscape-2.png"]
         },
         {
             "id":4,
-            "project_name": "project-5",
-            "description": "project-description",
-            "technologies": ["tech-1", "tech-2", "tech-3"],
-            "live_link": "www.google.com",
-            "github_link": "www.github.com",
-            "image_urls": ["/images/project-5-main.png", "/images/project-5-landscape-1.png", "/images/project-1-landscape-2.png"]
+            "project_name": "Public API Requests",
+            "description": "Request a JSON object from the API and parse the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://www.google.com/",
+            "github_link": "https://github.com/dougbeckwith/techdegree-project-5",
+            "image_urls": ["/static/images/project-5-main.png", "/static/images/project-5-landscape-1.png", "/static/images/project-5-landscape-2.png"]
         }
 
     ]
