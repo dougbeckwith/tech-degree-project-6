@@ -11,6 +11,8 @@ app.use('/static', express.static('public'))
 
 // Send Error Message to User
 function errorHandler(res, error) {
+  console.log('Error Message:', error.message)
+  console.log('Error Status Code:', error.status)
   return res.send(`<h1>${error.message}</h1>
   <p>Status Code:${error.status}</p>
   `)
