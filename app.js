@@ -26,7 +26,6 @@ function createError(message, status) {
 
 // Route for home page
 app.get('/', (req, res) => {
-  console.log(data)
   res.render('index', {data})
 })
 
